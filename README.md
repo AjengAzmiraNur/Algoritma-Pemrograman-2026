@@ -61,7 +61,7 @@ flowchart TD
 
 ## 🐍 Implementasi Python
 
-
+Implementasi program dibuat menggunakan bahasa pemrograman Python dan dijalankan melalui Visual Studio Code. [main.py](main.py)
 
 ## 📸Hasil Pengujian
 
